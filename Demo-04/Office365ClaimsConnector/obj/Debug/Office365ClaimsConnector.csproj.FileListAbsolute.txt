@@ -1,0 +1,10 @@
+C:\src\win8app4sponline\Win8AppForSharePoint\Office365ClaimsConnector\bin\Debug\Office365ClaimsConnector.dll
+C:\src\win8app4sponline\Win8AppForSharePoint\Office365ClaimsConnector\bin\Debug\Office365ClaimsConnector.pdb
+C:\src\win8app4sponline\Win8AppForSharePoint\Office365ClaimsConnector\obj\Debug\Office365ClaimsConnector.csprojResolveAssemblyReference.cache
+C:\src\win8app4sponline\Win8AppForSharePoint\Office365ClaimsConnector\obj\Debug\Office365ClaimsConnector.dll
+C:\src\win8app4sponline\Win8AppForSharePoint\Office365ClaimsConnector\obj\Debug\Office365ClaimsConnector.pdb
+C:\src\JK\W8SP15DevRdDraft\Win8App4-SPOnline\Office365ClaimsConnector\bin\Debug\Office365ClaimsConnector.dll
+C:\src\JK\W8SP15DevRdDraft\Win8App4-SPOnline\Office365ClaimsConnector\bin\Debug\Office365ClaimsConnector.pdb
+C:\src\JK\W8SP15DevRdDraft\Win8App4-SPOnline\Office365ClaimsConnector\obj\Debug\Office365ClaimsConnector.csprojResolveAssemblyReference.cache
+C:\src\JK\W8SP15DevRdDraft\Win8App4-SPOnline\Office365ClaimsConnector\obj\Debug\Office365ClaimsConnector.dll
+C:\src\JK\W8SP15DevRdDraft\Win8App4-SPOnline\Office365ClaimsConnector\obj\Debug\Office365ClaimsConnector.pdb

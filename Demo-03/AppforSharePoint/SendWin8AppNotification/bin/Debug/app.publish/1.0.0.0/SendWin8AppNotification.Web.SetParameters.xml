@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="sukul" />
+  <setParameter name="PersistenceConnection-Web.config Connection String" value="Server=tcp:qlmwak2qsz.database.windows.net,1433;Database=sokool_db;User ID=appuser@qlmwak2qsz;Password=Sh@iyLen;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" />
+</parameters>

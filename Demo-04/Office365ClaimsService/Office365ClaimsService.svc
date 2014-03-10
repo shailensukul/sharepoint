@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Office365ClaimsService.Office365ClaimsService" CodeBehind="Office365ClaimsService.svc.cs" %>

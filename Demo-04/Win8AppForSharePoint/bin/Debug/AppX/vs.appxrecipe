@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SUKUL-LENOVO-LT</Machine>
+    <WindowsUser>Shailen</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>62480SoKool.SharePoint2013MetroSearchApp</PackageIdentityName>
+    <RegisteredManifestChecksum>72B03DA7199D2A7F85252C8773634F64CADCCF7D5EE32D7C585AACE02EFBA395</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>62480SoKool.SharePoint2013MetroSearchApp_1.0.0.0_neutral__pz202s2p0gk6m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>62480SoKool.SharePoint2013MetroSearchApp_pz202s2p0gk6m!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>62480SoKool.SharePoint2013MetroSearchApp</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=3D49FA6E-54DD-45C6-8169-08DFABF95426</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-08T01:20:45.855</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-09-29T06:04:50.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\html\footer.html">
+      <PackagePath>html\footer.html</PackagePath>
+      <Modified>2013-09-29T06:04:50.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\html\header.html">
+      <PackagePath>html\header.html</PackagePath>
+      <Modified>2013-09-29T06:04:50.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\pages\Login\login.html">
+      <PackagePath>pages\Login\login.html</PackagePath>
+      <Modified>2013-09-29T06:04:50.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\pages\Search\search.html">
+      <PackagePath>pages\Search\search.html</PackagePath>
+      <Modified>2013-09-29T06:04:50.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-29T06:04:50.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-29T06:04:50.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-29T06:04:50.102</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-29T06:04:50.102</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\images\sharepoint-logo.jpg">
+      <PackagePath>images\sharepoint-logo.jpg</PackagePath>
+      <Modified>2013-09-29T06:04:50.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-09-29T06:04:50.103</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2013-09-29T06:04:50.104</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\pages\Login\login.js">
+      <PackagePath>pages\Login\login.js</PackagePath>
+      <Modified>2013-09-29T06:04:50.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\pages\Search\search.js">
+      <PackagePath>pages\Search\search.js</PackagePath>
+      <Modified>2013-10-02T10:46:10.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-09-29T06:04:50.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\pages\Login\login.css">
+      <PackagePath>pages\Login\login.css</PackagePath>
+      <Modified>2013-09-29T06:04:50.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\pages\Search\search.css">
+      <PackagePath>pages\Search\search.css</PackagePath>
+      <Modified>2013-09-29T06:04:50.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-11-18T06:51:54.204</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20789</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20789</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

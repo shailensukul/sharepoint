@@ -1,0 +1,14 @@
+﻿body {
+}
+
+.ms-core-pageTitle {
+    font-size: 2.0em;
+}
+
+.tileNotification {
+    float: left;
+}
+
+.toastNotification {
+    float:left;
+}

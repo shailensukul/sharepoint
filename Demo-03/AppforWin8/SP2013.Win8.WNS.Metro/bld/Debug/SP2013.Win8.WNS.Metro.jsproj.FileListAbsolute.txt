@@ -1,0 +1,46 @@
+C:\src\JK\W8SP15DevRdDraft\Demo\AppforWin8\SP2013.Win8.WNS.Metro\bin\Debug\resources.pri
+C:\src\JK\W8SP15DevRdDraft\Demo\AppforWin8\SP2013.Win8.WNS.Metro\bin\Debug\AppxManifest.xml
+C:\src\JK\W8SP15DevRdDraft\Demo\AppforWin8\SP2013.Win8.WNS.Metro\bin\Debug\SP2013.Win8.WNS.Metro.build.appxrecipe
+C:\src\JK\W8SP15DevRdDraft\Demo\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\priconfig.xml
+C:\src\JK\W8SP15DevRdDraft\Demo\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\priconfig.xml.intermediate
+C:\src\JK\W8SP15DevRdDraft\Demo\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\layout.resfiles
+C:\src\JK\W8SP15DevRdDraft\Demo\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\layout.resfiles.intermediate
+C:\src\JK\W8SP15DevRdDraft\Demo\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\resources.resfiles
+C:\src\JK\W8SP15DevRdDraft\Demo\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\resources.resfiles.intermediate
+C:\src\JK\W8SP15DevRdDraft\Demo\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\pri.resfiles
+C:\src\JK\W8SP15DevRdDraft\Demo\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\pri.resfiles.intermediate
+C:\src\JK\W8SP15DevRdDraft\Demo\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\qualifiers.txt
+C:\src\JK\W8SP15DevRdDraft\Demo\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\qualifiers.txt.intermediate
+C:\src\JK\W8SP15DevRdDraft\Demo\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\src\JK\W8SP15DevRdDraft\Demo\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\resources.pri.xml
+C:\src\JK\W8SP15DevRdDraft\Demo\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\ProjectArchitectures.txt
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bin\Debug\ReverseMap\resources.pri
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bin\Debug\AppxManifest.xml
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bin\Debug\SP2013.Win8.WNS.Metro.build.appxrecipe
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\priconfig.xml
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\priconfig.xml.intermediate
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\layout.resfiles
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\layout.resfiles.intermediate
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\resources.resfiles
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\resources.resfiles.intermediate
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\pri.resfiles
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\pri.resfiles.intermediate
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\qualifiers.txt
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\qualifiers.txt.intermediate
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\ProjectArchitectures.txt
+D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bin\Debug\ReverseMap\resources.pri
+D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bin\Debug\AppxManifest.xml
+D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bin\Debug\SP2013.Win8.WNS.Metro.build.appxrecipe
+D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\priconfig.xml
+D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\priconfig.xml.intermediate
+D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\layout.resfiles
+D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\layout.resfiles.intermediate
+D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\resources.resfiles
+D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\resources.resfiles.intermediate
+D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\pri.resfiles
+D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\pri.resfiles.intermediate
+D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\qualifiers.txt
+D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\qualifiers.txt.intermediate
+D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Connect to Sharepoint Online</title>
+    
+    <!-- WinJS references -->
+    <link rel="stylesheet" href="//Microsoft.WinJS.1.0/css/ui-light.css" />
+    <script  src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script  src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+    
+    <link rel="stylesheet" href="/pages/Login/login.css" />
+    <script  src="/pages/Login/login.js"></script>
+
+</head>
+<body>
+    <!-- The content that will be loaded and displayed. -->
+    <div class="detailPage fragment">
+        <header role="banner" aria-label="Header content">
+        
+            <div class="titleArea">
+                <h1 class="pageTitle win-type-xx-large"></h1>
+            </div>
+        </header>
+        <section role="main" aria-label="Main content">
+            <article>
+                <div>
+                    <header>
+                        <h2 class="title win-type-x-large"></h2>
+                    </header>
+                    <div class="image"></div>
+                    <div class="content"></div>
+                    <!-- input table -->
+                    <table border="0" style="width: 252px; height: 60px">
+                            <tr>
+                            <td><label>Address:</label></td>
+                            <td><input id="address" type="text"/></td>
+                          </tr>
+						  <tr>
+                            <td><label>Customer ID:</label></td>
+                            <td><input id="username" type="text"/></td>
+                          </tr>
+                          <tr>
+                            <td><label>Password:</label></td>
+                            <td style="height: 40px"><input id="password" type="password"/></td>
+                          </tr>
+                          <tr>
+                            <td>
+                              <label>
+                                <input class="submitButton" type="submit" name="Submit" value="Submit" />
+                              </label>
+                            </td>
+                          </tr>
+						   <tr>
+                            <td>
+                            	<progress class="win-ring win-large progress"></progress>    
+                            </td>
+                          </tr>
+                    </table>
+                </div>
+            </article>
+        </section>
+    </div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-01\Demo-01\bin\Debug\Demo-01.pdb
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-01\Demo-01\obj\Debug\Demo-01.dll
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-01\Demo-01\obj\Debug\Demo-01.pdb
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-01\Demo-01\obj\Debug\Demo-01.csprojResolveAssemblyReference.cache
+D:\Shailen\Code\SharePoint\App Demos\Demo-01\Demo-01\bin\Debug\Demo-01.pdb
+D:\Shailen\Code\SharePoint\App Demos\Demo-01\Demo-01\obj\Debug\Demo-01.csprojResolveAssemblyReference.cache
+D:\Shailen\Code\SharePoint\App Demos\Demo-01\Demo-01\obj\Debug\Demo-01.dll
+D:\Shailen\Code\SharePoint\App Demos\Demo-01\Demo-01\obj\Debug\Demo-01.pdb

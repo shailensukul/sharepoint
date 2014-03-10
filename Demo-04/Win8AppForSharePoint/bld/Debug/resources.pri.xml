@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="62480SoKool.SharePoint2013MetroSearchApp" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="default.html" uri="ms-resource://62480SoKool.SharePoint2013MetroSearchApp/Files/default.html">
+				<Candidate type="Path">
+					<Value>default.html</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="css">
+				<NamedResource name="default.css" uri="ms-resource://62480SoKool.SharePoint2013MetroSearchApp/Files/css/default.css">
+					<Candidate type="Path">
+						<Value>css\default.css</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="html">
+				<NamedResource name="footer.html" uri="ms-resource://62480SoKool.SharePoint2013MetroSearchApp/Files/html/footer.html">
+					<Candidate type="Path">
+						<Value>html\footer.html</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="header.html" uri="ms-resource://62480SoKool.SharePoint2013MetroSearchApp/Files/html/header.html">
+					<Candidate type="Path">
+						<Value>html\header.html</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="logo.png" uri="ms-resource://62480SoKool.SharePoint2013MetroSearchApp/Files/images/logo.png">
+					<Candidate type="Path">
+						<Value>images\logo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sharepoint-logo.jpg" uri="ms-resource://62480SoKool.SharePoint2013MetroSearchApp/Files/images/sharepoint-logo.jpg">
+					<Candidate type="Path">
+						<Value>images\sharepoint-logo.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="smalllogo.png" uri="ms-resource://62480SoKool.SharePoint2013MetroSearchApp/Files/images/smalllogo.png">
+					<Candidate type="Path">
+						<Value>images\smalllogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="splashscreen.png" uri="ms-resource://62480SoKool.SharePoint2013MetroSearchApp/Files/images/splashscreen.png">
+					<Candidate type="Path">
+						<Value>images\splashscreen.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="storelogo.png" uri="ms-resource://62480SoKool.SharePoint2013MetroSearchApp/Files/images/storelogo.png">
+					<Candidate type="Path">
+						<Value>images\storelogo.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="js">
+				<NamedResource name="default.js" uri="ms-resource://62480SoKool.SharePoint2013MetroSearchApp/Files/js/default.js">
+					<Candidate type="Path">
+						<Value>js\default.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="navigator.js" uri="ms-resource://62480SoKool.SharePoint2013MetroSearchApp/Files/js/navigator.js">
+					<Candidate type="Path">
+						<Value>js\navigator.js</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="pages">
+				<ResourceMapSubtree name="Login">
+					<NamedResource name="login.css" uri="ms-resource://62480SoKool.SharePoint2013MetroSearchApp/Files/pages/Login/login.css">
+						<Candidate type="Path">
+							<Value>pages\Login\login.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="login.html" uri="ms-resource://62480SoKool.SharePoint2013MetroSearchApp/Files/pages/Login/login.html">
+						<Candidate type="Path">
+							<Value>pages\Login\login.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="login.js" uri="ms-resource://62480SoKool.SharePoint2013MetroSearchApp/Files/pages/Login/login.js">
+						<Candidate type="Path">
+							<Value>pages\Login\login.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Search">
+					<NamedResource name="search.css" uri="ms-resource://62480SoKool.SharePoint2013MetroSearchApp/Files/pages/Search/search.css">
+						<Candidate type="Path">
+							<Value>pages\Search\search.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="search.html" uri="ms-resource://62480SoKool.SharePoint2013MetroSearchApp/Files/pages/Search/search.html">
+						<Candidate type="Path">
+							<Value>pages\Search\search.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="search.js" uri="ms-resource://62480SoKool.SharePoint2013MetroSearchApp/Files/pages/Search/search.js">
+						<Candidate type="Path">
+							<Value>pages\Search\search.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

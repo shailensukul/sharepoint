@@ -1,0 +1,76 @@
+C:\src\win8app4sponline\Win8AppForSharePoint\Win8AppForSharePoint\bin\Debug\resources.pri
+C:\src\win8app4sponline\Win8AppForSharePoint\Win8AppForSharePoint\bin\Debug\AppxManifest.xml
+C:\src\win8app4sponline\Win8AppForSharePoint\Win8AppForSharePoint\bin\Debug\Win8AppForSharePoint.build.appxrecipe
+C:\src\win8app4sponline\Win8AppForSharePoint\Win8AppForSharePoint\bld\Debug\priconfig.xml
+C:\src\win8app4sponline\Win8AppForSharePoint\Win8AppForSharePoint\bld\Debug\priconfig.xml.intermediate
+C:\src\win8app4sponline\Win8AppForSharePoint\Win8AppForSharePoint\bld\Debug\layout.resfiles
+C:\src\win8app4sponline\Win8AppForSharePoint\Win8AppForSharePoint\bld\Debug\layout.resfiles.intermediate
+C:\src\win8app4sponline\Win8AppForSharePoint\Win8AppForSharePoint\bld\Debug\resources.resfiles
+C:\src\win8app4sponline\Win8AppForSharePoint\Win8AppForSharePoint\bld\Debug\resources.resfiles.intermediate
+C:\src\win8app4sponline\Win8AppForSharePoint\Win8AppForSharePoint\bld\Debug\pri.resfiles
+C:\src\win8app4sponline\Win8AppForSharePoint\Win8AppForSharePoint\bld\Debug\pri.resfiles.intermediate
+C:\src\win8app4sponline\Win8AppForSharePoint\Win8AppForSharePoint\bld\Debug\qualifiers.txt
+C:\src\win8app4sponline\Win8AppForSharePoint\Win8AppForSharePoint\bld\Debug\qualifiers.txt.intermediate
+C:\src\win8app4sponline\Win8AppForSharePoint\Win8AppForSharePoint\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\src\win8app4sponline\Win8AppForSharePoint\Win8AppForSharePoint\bld\Debug\resources.pri.xml
+C:\src\win8app4sponline\Win8AppForSharePoint\Win8AppForSharePoint\bld\Debug\ProjectArchitectures.txt
+C:\src\JK\W8SP15DevRdDraft\Win8App4-SPOnline\Win8AppForSharePoint\bin\Debug\resources.pri
+C:\src\JK\W8SP15DevRdDraft\Win8App4-SPOnline\Win8AppForSharePoint\bin\Debug\AppxManifest.xml
+C:\src\JK\W8SP15DevRdDraft\Win8App4-SPOnline\Win8AppForSharePoint\bin\Debug\Win8AppForSharePoint.build.appxrecipe
+C:\src\JK\W8SP15DevRdDraft\Win8App4-SPOnline\Win8AppForSharePoint\bld\Debug\priconfig.xml
+C:\src\JK\W8SP15DevRdDraft\Win8App4-SPOnline\Win8AppForSharePoint\bld\Debug\priconfig.xml.intermediate
+C:\src\JK\W8SP15DevRdDraft\Win8App4-SPOnline\Win8AppForSharePoint\bld\Debug\layout.resfiles
+C:\src\JK\W8SP15DevRdDraft\Win8App4-SPOnline\Win8AppForSharePoint\bld\Debug\layout.resfiles.intermediate
+C:\src\JK\W8SP15DevRdDraft\Win8App4-SPOnline\Win8AppForSharePoint\bld\Debug\resources.resfiles
+C:\src\JK\W8SP15DevRdDraft\Win8App4-SPOnline\Win8AppForSharePoint\bld\Debug\resources.resfiles.intermediate
+C:\src\JK\W8SP15DevRdDraft\Win8App4-SPOnline\Win8AppForSharePoint\bld\Debug\pri.resfiles
+C:\src\JK\W8SP15DevRdDraft\Win8App4-SPOnline\Win8AppForSharePoint\bld\Debug\pri.resfiles.intermediate
+C:\src\JK\W8SP15DevRdDraft\Win8App4-SPOnline\Win8AppForSharePoint\bld\Debug\qualifiers.txt
+C:\src\JK\W8SP15DevRdDraft\Win8App4-SPOnline\Win8AppForSharePoint\bld\Debug\qualifiers.txt.intermediate
+C:\src\JK\W8SP15DevRdDraft\Win8App4-SPOnline\Win8AppForSharePoint\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\src\JK\W8SP15DevRdDraft\Win8App4-SPOnline\Win8AppForSharePoint\bld\Debug\resources.pri.xml
+C:\src\JK\W8SP15DevRdDraft\Win8App4-SPOnline\Win8AppForSharePoint\bld\Debug\ProjectArchitectures.txt
+D:\Shailen\Code\SharePoint\RoadShow\Demos\demos\Demo-04\Win8AppForSharePoint\bin\Debug\resources.pri
+D:\Shailen\Code\SharePoint\RoadShow\Demos\demos\Demo-04\Win8AppForSharePoint\bin\Debug\AppxManifest.xml
+D:\Shailen\Code\SharePoint\RoadShow\Demos\demos\Demo-04\Win8AppForSharePoint\bin\Debug\Win8AppForSharePoint.build.appxrecipe
+D:\Shailen\Code\SharePoint\RoadShow\Demos\demos\Demo-04\Win8AppForSharePoint\bld\Debug\priconfig.xml
+D:\Shailen\Code\SharePoint\RoadShow\Demos\demos\Demo-04\Win8AppForSharePoint\bld\Debug\priconfig.xml.intermediate
+D:\Shailen\Code\SharePoint\RoadShow\Demos\demos\Demo-04\Win8AppForSharePoint\bld\Debug\layout.resfiles
+D:\Shailen\Code\SharePoint\RoadShow\Demos\demos\Demo-04\Win8AppForSharePoint\bld\Debug\layout.resfiles.intermediate
+D:\Shailen\Code\SharePoint\RoadShow\Demos\demos\Demo-04\Win8AppForSharePoint\bld\Debug\resources.resfiles
+D:\Shailen\Code\SharePoint\RoadShow\Demos\demos\Demo-04\Win8AppForSharePoint\bld\Debug\resources.resfiles.intermediate
+D:\Shailen\Code\SharePoint\RoadShow\Demos\demos\Demo-04\Win8AppForSharePoint\bld\Debug\pri.resfiles
+D:\Shailen\Code\SharePoint\RoadShow\Demos\demos\Demo-04\Win8AppForSharePoint\bld\Debug\pri.resfiles.intermediate
+D:\Shailen\Code\SharePoint\RoadShow\Demos\demos\Demo-04\Win8AppForSharePoint\bld\Debug\qualifiers.txt
+D:\Shailen\Code\SharePoint\RoadShow\Demos\demos\Demo-04\Win8AppForSharePoint\bld\Debug\qualifiers.txt.intermediate
+D:\Shailen\Code\SharePoint\RoadShow\Demos\demos\Demo-04\Win8AppForSharePoint\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Shailen\Code\SharePoint\RoadShow\Demos\demos\Demo-04\Win8AppForSharePoint\bld\Debug\resources.pri.xml
+D:\Shailen\Code\SharePoint\RoadShow\Demos\demos\Demo-04\Win8AppForSharePoint\bld\Debug\ProjectArchitectures.txt
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-04\Win8AppForSharePoint\bin\Debug\resources.pri
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-04\Win8AppForSharePoint\bin\Debug\AppxManifest.xml
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-04\Win8AppForSharePoint\bin\Debug\Win8AppForSharePoint.build.appxrecipe
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-04\Win8AppForSharePoint\bld\Debug\priconfig.xml.intermediate
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-04\Win8AppForSharePoint\bld\Debug\layout.resfiles.intermediate
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-04\Win8AppForSharePoint\bld\Debug\resources.resfiles.intermediate
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-04\Win8AppForSharePoint\bld\Debug\pri.resfiles.intermediate
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-04\Win8AppForSharePoint\bld\Debug\priconfig.xml
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-04\Win8AppForSharePoint\bld\Debug\layout.resfiles
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-04\Win8AppForSharePoint\bld\Debug\resources.resfiles
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-04\Win8AppForSharePoint\bld\Debug\pri.resfiles
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-04\Win8AppForSharePoint\bld\Debug\LanguageQualifiers.txt
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-04\Win8AppForSharePoint\bld\Debug\ProjectArchitectures.txt
+D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\bin\Debug\resources.pri
+D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\bin\Debug\AppxManifest.xml
+D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\bin\Debug\Win8AppForSharePoint.build.appxrecipe
+D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\bld\Debug\priconfig.xml
+D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\bld\Debug\priconfig.xml.intermediate
+D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\bld\Debug\layout.resfiles
+D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\bld\Debug\layout.resfiles.intermediate
+D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\bld\Debug\resources.resfiles
+D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\bld\Debug\resources.resfiles.intermediate
+D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\bld\Debug\pri.resfiles
+D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\bld\Debug\pri.resfiles.intermediate
+D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\bld\Debug\qualifiers.txt
+D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\bld\Debug\qualifiers.txt.intermediate
+D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Shailen\Code\SharePoint\App Demos\Demo-04\Win8AppForSharePoint\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>SharePoint Search</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-light.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+  
+    <!-- Win8AppForSharePoint references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <link rel="stylesheet" href="/pages/Search/search.css" />
+    <script  src="/pages/Search/search.js"></script>
+    <script src="/js/default.js"></script>
+    <script src="/js/navigator.js"></script>
+
+</head>
+<body>
+   
+       
+          <div  class="content" aria-label="Main content" role="main">
+              <img class="spLogo" src="../../images/sharepoint-logo.jpg" />
+			<div id="searchLbl">SharePoint Online Search</div>
+		 <input id="searchBox" name="search" type="text" placeholder="Search..." />
+          	<button id="searchBtn" type="button">Search</button> 
+			 <div><progress class="win-ring win-large progress"></progress></div>
+
+		<div id="searchResultsTemplate" data-win-control="WinJS.Binding.Template">
+			<div class="itemResult">
+				<div><h2><a class="resultTitleLink" data-win-bind="innerText: title;source: url"></a></h2></div>
+                <span> <a class="resultUrl" data-win-bind="innerText: url;source: url" ></a>
+                    <span class="resultDate" data-win-bind="innerText: date"></span>
+                </span>				
+                <div class="resultContent" data-win-bind="innerText: content"></div>
+                
+				
+			</div>
+		</div>
+     
+              <div id="searchListView" data-win-control="WinJS.UI.ListView" 
+        data-win-options="{itemTemplate:searchResultsTemplate,selectionMode:'none', layout: { type: WinJS.UI.ListLayout }}"></div>
+    
+         
+          </div>
+</body>
+</html>

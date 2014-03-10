@@ -1,0 +1,9 @@
+C:\src\test\SharePoint 2013 Retrieve user profile information in an app part\C#\AppPart\bin\Debug\AppPart.pdb
+C:\src\test\SharePoint 2013 Retrieve user profile information in an app part\C#\AppPart\obj\Debug\AppPart.dll
+C:\src\test\SharePoint 2013 Retrieve user profile information in an app part\C#\AppPart\obj\Debug\AppPart.pdb
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-02\C#\AppPart\bin\Debug\AppPart.pdb
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-02\C#\AppPart\obj\Debug\AppPart.dll
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-02\C#\AppPart\obj\Debug\AppPart.pdb
+D:\Shailen\Code\SharePoint\App Demos\Demo-02\C#\AppPart\bin\Debug\AppPart.pdb
+D:\Shailen\Code\SharePoint\App Demos\Demo-02\C#\AppPart\obj\Debug\AppPart.dll
+D:\Shailen\Code\SharePoint\App Demos\Demo-02\C#\AppPart\obj\Debug\AppPart.pdb

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="9043Readify-JasonKaczor.SP2013.Win8.WNS.Metro.JJK" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="default.html" uri="ms-resource://9043Readify-JasonKaczor.SP2013.Win8.WNS.Metro.JJK/Files/default.html">
+				<Candidate type="Path">
+					<Value>default.html</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Package.StoreAssociation.xml" uri="ms-resource://9043Readify-JasonKaczor.SP2013.Win8.WNS.Metro.JJK/Files/Package.StoreAssociation.xml">
+				<Candidate type="Path">
+					<Value>Package.StoreAssociation.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SP2013.Win8.WNS.Metro_TemporaryKey.pfx" uri="ms-resource://9043Readify-JasonKaczor.SP2013.Win8.WNS.Metro.JJK/Files/SP2013.Win8.WNS.Metro_TemporaryKey.pfx">
+				<Candidate type="Path">
+					<Value>SP2013.Win8.WNS.Metro_TemporaryKey.pfx</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="css">
+				<NamedResource name="default.css" uri="ms-resource://9043Readify-JasonKaczor.SP2013.Win8.WNS.Metro.JJK/Files/css/default.css">
+					<Candidate type="Path">
+						<Value>css\default.css</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="badge-logo-24x24-SOW.png" uri="ms-resource://9043Readify-JasonKaczor.SP2013.Win8.WNS.Metro.JJK/Files/images/badge-logo-24x24-SOW.png">
+					<Candidate type="Path">
+						<Value>images\badge-logo-24x24-SOW.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="badge-logo-30x30-SOW.png" uri="ms-resource://9043Readify-JasonKaczor.SP2013.Win8.WNS.Metro.JJK/Files/images/badge-logo-30x30-SOW.png">
+					<Candidate type="Path">
+						<Value>images\badge-logo-30x30-SOW.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Tile_Default.png" uri="ms-resource://9043Readify-JasonKaczor.SP2013.Win8.WNS.Metro.JJK/Files/images/Tile_Default.png">
+					<Candidate type="Path">
+						<Value>images\Tile_Default.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Tile_Default_150_150.png" uri="ms-resource://9043Readify-JasonKaczor.SP2013.Win8.WNS.Metro.JJK/Files/images/Tile_Default_150_150.png">
+					<Candidate type="Path">
+						<Value>images\Tile_Default_150_150.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Tile_Default_50_50.png" uri="ms-resource://9043Readify-JasonKaczor.SP2013.Win8.WNS.Metro.JJK/Files/images/Tile_Default_50_50.png">
+					<Candidate type="Path">
+						<Value>images\Tile_Default_50_50.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Tile_Default_620_300.png" uri="ms-resource://9043Readify-JasonKaczor.SP2013.Win8.WNS.Metro.JJK/Files/images/Tile_Default_620_300.png">
+					<Candidate type="Path">
+						<Value>images\Tile_Default_620_300.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="js">
+				<NamedResource name="default.js" uri="ms-resource://9043Readify-JasonKaczor.SP2013.Win8.WNS.Metro.JJK/Files/js/default.js">
+					<Candidate type="Path">
+						<Value>js\default.js</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

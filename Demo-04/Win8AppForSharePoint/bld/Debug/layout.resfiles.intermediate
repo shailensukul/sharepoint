@@ -1,0 +1,17 @@
+css\default.css
+default.html
+html\footer.html
+html\header.html
+images\logo.png
+images\sharepoint-logo.jpg
+images\smalllogo.png
+images\splashscreen.png
+images\storelogo.png
+js\default.js
+js\navigator.js
+pages\Login\login.css
+pages\Login\login.html
+pages\Login\login.js
+pages\Search\search.css
+pages\Search\search.html
+pages\Search\search.js

@@ -1,0 +1,13 @@
+C:\src\JK\W8SP15DevRdDraft\Demo\AppforSharePoint\SendWin8AppNotification\bin\Debug\SendWin8AppNotification.pdb
+C:\src\JK\W8SP15DevRdDraft\Demo\AppforSharePoint\SendWin8AppNotification\obj\Debug\SendWin8AppNotification.dll
+C:\src\JK\W8SP15DevRdDraft\Demo\AppforSharePoint\SendWin8AppNotification\obj\Debug\SendWin8AppNotification.pdb
+D:\Shailen\Code\SharePoint\RoadShow\Demos\demos\Demo-03\AppforSharePoint\SendWin8AppNotification\bin\Debug\SendWin8AppNotification.pdb
+D:\Shailen\Code\SharePoint\RoadShow\Demos\demos\Demo-03\AppforSharePoint\SendWin8AppNotification\obj\Debug\SendWin8AppNotification.dll
+D:\Shailen\Code\SharePoint\RoadShow\Demos\demos\Demo-03\AppforSharePoint\SendWin8AppNotification\obj\Debug\SendWin8AppNotification.pdb
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-03\AppforSharePoint\SendWin8AppNotification\bin\Debug\SendWin8AppNotification.pdb
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-03\AppforSharePoint\SendWin8AppNotification\obj\Debug\SendWin8AppNotification.dll
+D:\Shailen\Code\SharePoint\RoadShow\Demos\Demo-03\AppforSharePoint\SendWin8AppNotification\obj\Debug\SendWin8AppNotification.pdb
+D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforSharePoint\SendWin8AppNotification\bin\Debug\SendWin8AppNotification.pdb
+D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforSharePoint\SendWin8AppNotification\obj\Debug\SendWin8AppNotification.dll
+D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforSharePoint\SendWin8AppNotification\obj\Debug\SendWin8AppNotification.pdb
+D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforSharePoint\SendWin8AppNotification\obj\Debug\SendWin8AppNotification.csprojResolveAssemblyReference.cache

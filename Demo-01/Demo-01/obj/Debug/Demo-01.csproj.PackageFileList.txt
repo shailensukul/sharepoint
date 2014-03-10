@@ -1,0 +1,1 @@
+bin\Debug\Demo_01.wsp

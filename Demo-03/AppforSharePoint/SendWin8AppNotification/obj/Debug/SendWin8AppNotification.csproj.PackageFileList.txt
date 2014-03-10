@@ -1,0 +1,1 @@
+bin\Debug\SendWin8AppNotification.wsp

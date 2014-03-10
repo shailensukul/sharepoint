@@ -1,0 +1,347 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head><link rel="stylesheet" type="text/css" href="description/Combined.css,0:ImageSprite,0:Header.NonMtps,1:LinkList;/Areas/Centers/Themes/Msdn/Content:0,/Areas/Epx/Themes/Base/Content:1&amp;amp;hashKey=7A770956F95829094E6B437F2E15F78D" xmlns="http://www.w3.org/1999/xhtml" />
+<link rel="stylesheet" type="text/css" href="description/f1ba9241-fa93-41f3-bce3-a025e0ba4044Combined.css,0:ImageSprite,0:Footer.NonMtps,1:LinkList;/Areas/Centers/Themes/Msdn/Content:0,/Areas/Epx/Themes/Base/Content:1&amp;amp;hashKey=091859E5A4DB58EB5F31FB2CDF7DABDE" xmlns="http://www.w3.org/1999/xhtml" />
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>SharePoint 2013: Retrieve user profile information in an app part</title>
+        <link href="description/Galleries.css" type="text/css" rel="Stylesheet" /><link href="description/Layout.css" type="text/css" rel="Stylesheet" /><link href="description/Brand.css" type="text/css" rel="Stylesheet" />
+        <link href="description/iframedescription.css" rel="Stylesheet" type="text/css" />
+        <script src="description/offline.js" type="text/javascript"></script>
+        <style type="text/css">
+            #projectInfo {
+                overflow: auto;
+            }
+            #longDesc {
+                clear:both;
+                margin: 25px 0 10px 0;
+            }
+
+            #SampleIndexList{
+                margin-left: 15px;
+            }
+        </style>
+    </head>
+<body>
+    <div id="offlineDescription">
+        <h1>SharePoint 2013: Retrieve user profile information in an app part</h1>
+        <br/>
+        <div id="projectInfo">
+            <div class="section">
+                    <div class="itemBarLong tagsContainer">
+                        <label for="Technologies">Technologies</label>
+                        <div id="Technologies">
+                            apps for SharePoint
+                        </div>
+                    </div>
+                    <div class="itemBarLong tagsContainer">
+                        <label for="Topics">Topics</label>
+                        <div id="Topics">
+                            REST, Javascript, Search
+                        </div>
+                    </div>
+                <div class="itemBarLong">
+                    <label for="Platforms">Platforms</label>
+                    <div id="Platforms">
+                        Cloud
+                    </div>
+                </div>
+                <div class="itemBarLong">
+                    <label for="Requirements">Requirements</label>
+                    <div id="Requirements">
+                        
+                    </div>
+                </div>
+                <div class="itemBar">
+                    <label for="LastUpdated">Primary language</label>
+                    <div id="LastUpdated">en-US</div>
+                </div>
+                <div class="itemBar">
+                    <label for="LastUpdated">Last updated</label>
+                    <div id="LastUpdated">8/29/2013</div>
+                </div>
+                <div class="itemBarLong">
+                    <label for="License">License</label>
+                    <div id="License">
+                        <a href="license.rtf">Apache License, Version 2.0</a></div>
+                </div>
+                <div class="itemBar">
+                    <div class="viewonlinecont">
+                        <a data-link="online" href="http://code.msdn.microsoft.com/SharePoint-2013-Retrieve-3e573eb4">View this sample online</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+                   
+<script type="text/javascript">
+    function initializePage() {
+        var otherTabClass = 'otherTab';
+        var hiddenPreClass = 'hidden';
+
+        var htmlDecode = function(encodedData) {
+            var decodedData = "";
+            if (encodedData) {
+                var div = document.createElement('div');
+                div.innerHTML = encodedData;
+                decodedData = div.firstChild.nodeValue.replace( /\\r\\n/ig , '\r\n');
+            }
+            return decodedData;
+        };
+                
+        Galleries.iterateElem(Galleries.findElem(null, 'div', 'scriptcode'), function (index, scriptBlock) {
+            var titleElem = Galleries.findElem(scriptBlock, 'div', 'title')[0];
+            var labelElems = Galleries.findElem(titleElem, 'span');
+            if (labelElems.length == 0) {
+                labelElems = titleElem;
+            }
+            var languageSpans = Galleries.findElem(scriptBlock, 'span', 'hidden');
+            var pres = Galleries.findElem(scriptBlock, 'pre');
+            if (languageSpans.length > 0 && pres.length > 1) {
+                Galleries.iterateElem(labelElems, function(index, elem) {
+                    var codePre = pres[index];
+                    var labelSpan = elem;
+                    var languageSpan = languageSpans[index];
+                            
+                    elem.code = codePre.innerHTML.replace( /(\r(\n)?)|((\r)?\n)/ig , '\\r\\n');
+                            
+                    codePre.className = codePre.className.replace(hiddenPreClass, '');
+                            
+                    languageSpan.parentNode.removeChild(languageSpan);
+                });
+
+                pres = Galleries.findElem(scriptBlock, 'pre');
+                Galleries.iterateElem(labelElems, function(index, elem) {
+                    var codePre = pres[index];
+                    var labelSpan = elem;
+                    if (index == 0) {
+                        scriptBlock.activeTab = 0;
+                    }
+                    else {
+                        labelSpan.className += otherTabClass;
+                        codePre.className += hiddenPreClass;
+                    }
+                    Galleries.attachEventHandler(labelSpan, 'click', function(e) {
+                        var activeTab = scriptBlock.activeTab;
+                        labelElems[activeTab].className += otherTabClass;
+                        pres[activeTab].className += hiddenPreClass;
+
+                        codePre.className = codePre.className.replace(hiddenPreClass, '');
+                        labelSpan.className = labelSpan.className.replace(otherTabClass, '');
+                        scriptBlock.activeTab = index;
+                    });
+                });
+
+                var preview = Galleries.findElem(scriptBlock, 'div', 'preview');
+                if (preview.length == 0) {
+                    preview.push(pres[pres.length - 1]);
+                }
+                Galleries.iterateElem(preview, function(index, elem) {
+                    elem.parentNode.removeChild(elem);
+                });
+
+                if (window.clipboardData && clipboardData.setData) {
+                    var copyLink = document.createElement('a');
+                    copyLink.href = 'javascript:void(0);';
+                    copyLink.className = 'copyCode';
+                    copyLink.innerHTML = 'Copy code';
+                    Galleries.attachEventHandler(copyLink, 'click', function (e) {
+                        clipboardData.setData("Text", htmlDecode(labelElems[scriptBlock.activeTab].code));
+                        return false;
+                    });
+                    scriptBlock.insertBefore(copyLink, scriptBlock.childNodes[0]);
+                }
+            }
+        });
+    }
+
+    Galleries.onWindowLoad(function(){
+        initializePage();
+    });
+
+</script>
+<div id="longDesc">
+    
+<div id="header">
+<table id="bottomTable" cellspacing="0" cellpadding="0">
+<tbody>
+<tr id="headerTableRow1">
+<td align="left"><span id="runningHeaderText">&nbsp;</span></td>
+</tr>
+<tr id="headerTableRow2">
+<td align="left"><span id="nsrTitle">SharePoint 2013: Retrieve user profile information in an app part</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="mainSection">
+<div id="mainBody">
+<p>&nbsp;</p>
+<div>
+<p><span>Summary:</span> Learn how to use the Search REST API and people picker and take advantage of app part dynamic resizing by using the app part edit mode. The sample displays an app part that retrieves information about a SharePoint user.</p>
+</div>
+<div>
+<p><span>Provided by:</span> Yina Arenas, Microsoft Corporation</p>
+</div>
+<div id="sectionSection0">
+<p>When you deploy and start the app, you can add the <strong><span class="ui">Who Is?</span></strong> app part to a page on the host web. Figure 1 shows how the app part will appear on the page. It displays the people picker and uses the search REST API
+ to get information about a SharePoint user.</p>
+<strong>
+<div class="caption">Figure 1. The Who Is? app part displays detailed information about a SharePoint user</div>
+</strong><br>
+<img src="description/image.png" alt="">
+<p>You can use the Web Part menu to make the app part display less information. Choose the
+<strong><span class="ui">Who is? properties</span></strong> link and clear the <strong>
+<span class="ui">Include detail information</span></strong> check box.</p>
+<strong>
+<div class="caption">Figure 2. Use the Web Part menu to display less information in the app part</div>
+</strong><br>
+<img src="description/89aaa7ba-6abb-40a7-8a31-c08d13051f6aimage.png" alt="">
+<p>Now the app part will only include user basic information, and it gets dynamically resized.</p>
+<strong>
+<div class="caption">Figure 3. Edited app part displays only basic information about a SharePoint user</div>
+</strong><br>
+<img src="description/0f6a154d-0645-4910-9cf3-c40fae0c537dimage.png" alt=""></div>
+<h1>Prerequisites</h1>
+<div id="sectionSection1">
+<p>This sample requires the following:</p>
+<ul>
+<li>
+<p>A SharePoint 2013 Developer Site. This site can be in Office 365 or in an on-premises installation of SharePoint 2013 that is enabled for apps. See
+<a href="http://msdn.microsoft.com/en-us/library/sharepoint/fp179923.aspx" >
+How to: Set up an on-premises development environment for apps for SharePoint</a> to create an on-premises SharePoint Developer Site.</p>
+</li><li>
+<p>Visual Studio 2012 and Office Developer Tools for Visual Studio 2012 installed on your development computer.</p>
+</li></ul>
+</div>
+<h1>Key components</h1>
+<div id="sectionSection2">
+<p>The app's <strong><span class="ui">AppPart</span></strong> project includes the following:</p>
+<ul>
+<li>
+<p>A <strong><span class="ui">Pages</span></strong> folder that contains two .aspx pages:</p>
+<ul>
+<li>
+<p><strong>Default.aspx</strong> is the default page of the SharePoint-hosted app. This is the page that you see when you start the app from SharePoint instead of including it as an app part.</p>
+</li><li>
+<p><strong>Part.aspx</strong> is the page that appears inside the app part.</p>
+</li></ul>
+</li></ul>
+</div>
+<h1>Configure the sample</h1>
+<div id="sectionSection3">
+<p>Follow these steps to configure the sample.</p>
+<ol>
+<li>
+<p>Open the <strong>AppPart.sln</strong> file in Visual Studio 2012.</p>
+</li><li>
+<p>In the <strong><span class="ui">Properties</span></strong> pane, change the <strong>
+<span class="ui">Site URL</span></strong> property. This is the absolute URL of your SharePoint site.</p>
+</li></ol>
+</div>
+<h1>Build the sample</h1>
+<div id="sectionSection4">
+<p>Press F5 to build and deploy the app.</p>
+</div>
+<h1>Run and test the sample</h1>
+<div id="sectionSection5">
+<ol>
+<li>
+<p>Choose <strong><span class="ui">Trust It</span></strong> on the consent page to grant permissions to the app.</p>
+</li><li>
+<p>Return to the host web of your SharePoint site. Navigate to a page that can include Web Parts.</p>
+</li><li>
+<p>In the ribbon above the page, choose <strong><span class="ui">Page</span></strong>,
+<strong><span class="ui">Edit</span></strong>, <strong><span class="ui">Insert</span></strong>,
+<strong><span class="ui">App Part</span></strong>.</p>
+</li><li>
+<p>Select the <strong><span class="ui">Who Is?</span></strong> app part and insert it on the page.</p>
+</li><li>
+<p>In the ribbon, choose the <strong><span class="ui">Save</span></strong> button.</p>
+</li><li>
+<p>Enter a valid user name in the text box so that the People Picker can resolve it.</p>
+</li></ol>
+</div>
+<h1>Troubleshooting</h1>
+<div id="sectionSection6">
+<p>The following table lists common configuration and environment errors that prevent the sample from running or deploying properly and ways to solve them.</p>
+<strong>
+<div class="caption"></div>
+</strong>
+<div>
+<table cellspacing="2" cellpadding="5" width="50%" frame="lhs">
+<tbody>
+<tr>
+<th>
+<p>Problem</p>
+</th>
+<th>
+<p>Solution</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>Visual Studio doesn't open the browser after you press F5.</p>
+</td>
+<td>
+<p>Set the app for SharePoint project as the startup project.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>HTTP error 405 <strong>Method not allowed</strong>.</p>
+</td>
+<td>
+<p>Locate the <span><strong><span class="keyword">applicationhost.config</span></strong></span> file in
+<strong>%userprofile%\Documents\IISExpress\config</strong>.</p>
+<p>Locate the handler entry for <strong>StaticFile</strong>, and add the verbs <span>
+<strong><span class="keyword">GET</span></strong></span>, <span><strong><span class="keyword">HEAD</span></strong></span>,
+<span><strong><span class="keyword">POST</span></strong></span>, <span><strong><span class="keyword">DEBUG</span></strong></span>, and
+<span><strong><span class="keyword">TRACE</span></strong></span>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h1>Change log</h1>
+<div id="sectionSection7"><strong>
+<div class="caption"></div>
+</strong>
+<div>
+<table cellspacing="2" cellpadding="5" width="50%" frame="lhs">
+<tbody>
+<tr>
+<td>
+<p>First release</p>
+</td>
+<td>
+<p>June 2013</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h1>Related content</h1>
+<div id="sectionSection8">
+<ul>
+<li>
+<p><a href="http://channel9.msdn.com/Series/Reimagine-SharePoint-Development/Migrating-a-SharePoint-Web-Part-to-an-app-for-SharePoint-app-part" >Migrating a SharePoint Web Part to an app for SharePoint app part</a></p>
+</li><li>
+<p><a href="http://code.msdn.microsoft.com/officeapps/SharePoint-2013-Perform-a-1bf3e87d" >SharePoint 2013: Using the search REST service from an app for SharePoint</a></p>
+</li><li>
+<p><a href="http://msdn.microsoft.com/library/1b992485-6efe-4ea4-a18c-221689b0b66f.aspx" >How to: Create a basic SharePoint-hosted app</a></p>
+</li><li>
+<p><a href="http://msdn.microsoft.com/en-us/library/sharepoint/fp179923.aspx" >How to: Set up an on-premises development environment for apps for SharePoint</a></p>
+</li></ul>
+</div>
+</div>
+</div>
+
+</div>
+
+
+    </div>
+</body>
+</html>

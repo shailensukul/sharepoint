@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="62c5c07a-42ee-460d-acd1-11b7adf38723" Scope="Web" Title="SendWin8AppNotification Feature1" Version="1.0.0.0">
+  <ElementManifests>
+    <ElementManifest Location="Tasks\Elements.xml" />
+    <ElementManifest Location="NotifyEventReceiver\Elements.xml" />
+  </ElementManifests>
+  <UpgradeActions>
+    <VersionRange>
+      <ApplyElementManifests>
+        <ElementManifest Location="Tasks\Elements.xml" />
+        <ElementManifest Location="NotifyEventReceiver\Elements.xml" />
+      </ApplyElementManifests>
+    </VersionRange>
+  </UpgradeActions>
+</Feature>

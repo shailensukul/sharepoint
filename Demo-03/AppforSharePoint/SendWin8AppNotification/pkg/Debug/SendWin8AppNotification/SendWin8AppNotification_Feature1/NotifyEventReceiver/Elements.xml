@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+<Receivers>
+    <Receiver>
+      <Name>NotifyEventReceiverItemAdded</Name>
+      <Type>ItemAdded</Type>
+      <Url>https://sukul.azurewebsites.net/Services/NotifyEventReceiver.svc</Url>
+      <!--<Url>https://localhost:44323/Services/NotifyEventReceiver.svc</Url>-->
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+  </Receivers>
+</Elements>

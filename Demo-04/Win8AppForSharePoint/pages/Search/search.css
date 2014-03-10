@@ -1,0 +1,50 @@
+﻿#searchBox {
+    width: 500px;
+	height: 35px;
+	padding: 10px 20px 10px 10px;
+	margin: 1px auto 50px;
+
+}
+#searchLbl {
+  font-family:'Segoe UI Symbol';
+  font-weight: bold;  
+
+}
+
+.content
+{
+    text-align: center; padding-top: 50px;
+ 
+}
+.pagetitle{
+
+
+}
+.resultTitleLink{
+	text-decoration: underline;
+
+
+}
+.resultAuthor{
+
+
+}
+.resultDate{
+color:#777;
+font-size: small;
+}
+.resultUrl{
+color:#388222;
+font-size: small;
+
+}
+.resultContent {
+    font-size: small;
+}
+.spLogo {
+	height: 103px;
+}
+.progress {
+	display:none;
+	margin: 1px auto 50px;
+}

@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendWin8AppNotification", "SendWin8AppNotification\SendWin8AppNotification.csproj", "{7F681A21-F824-41F2-BCB1-F280696ECBDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendWin8AppNotificationWeb", "SendWin8AppNotificationWeb\SendWin8AppNotificationWeb.csproj", "{F3796890-0859-41FE-8F59-C4B814C7EEDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F681A21-F824-41F2-BCB1-F280696ECBDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F681A21-F824-41F2-BCB1-F280696ECBDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F681A21-F824-41F2-BCB1-F280696ECBDC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7F681A21-F824-41F2-BCB1-F280696ECBDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F681A21-F824-41F2-BCB1-F280696ECBDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F681A21-F824-41F2-BCB1-F280696ECBDC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F3796890-0859-41FE-8F59-C4B814C7EEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3796890-0859-41FE-8F59-C4B814C7EEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3796890-0859-41FE-8F59-C4B814C7EEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3796890-0859-41FE-8F59-C4B814C7EEDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

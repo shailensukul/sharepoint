@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SUKUL-LENOVO-LT</Machine>
+    <WindowsUser>Shailen</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>62480SoKool.ToastAndTileSharePointNotification</PackageIdentityName>
+    <RegisteredManifestChecksum>90C1CC6CA57D01E751776FAB69644BADFFD910F22E1E84963E1DB28E87B4FD07</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>62480SoKool.ToastAndTileSharePointNotification_1.1.0.0_neutral__pz202s2p0gk6m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>62480SoKool.ToastAndTileSharePointNotification_pz202s2p0gk6m!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>62480SoKool.ToastAndTileSharePointNotification</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=3D49FA6E-54DD-45C6-8169-08DFABF95426</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-23T18:01:22.981</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-09-29T06:04:47.094</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-09-29T06:04:47.096</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\images\badge-logo-24x24-SOW.png">
+      <PackagePath>images\badge-logo-24x24-SOW.png</PackagePath>
+      <Modified>2013-09-29T06:04:47.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\images\badge-logo-30x30-SOW.png">
+      <PackagePath>images\badge-logo-30x30-SOW.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-29T06:04:47.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\images\Tile_Default.png">
+      <PackagePath>images\Tile_Default.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-29T06:04:47.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\images\Tile_Default_150_150.png">
+      <PackagePath>images\Tile_Default_150_150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-29T06:04:47.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\images\Tile_Default_50_50.png">
+      <PackagePath>images\Tile_Default_50_50.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-29T06:04:47.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\images\Tile_Default_620_300.png">
+      <PackagePath>images\Tile_Default_620_300.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-29T06:04:47.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-09-29T06:04:47.102</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\Package.StoreAssociation.xml">
+      <PackagePath>Package.StoreAssociation.xml</PackagePath>
+      <Modified>2013-10-12T05:05:49.578</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\SP2013.Win8.WNS.Metro_TemporaryKey.pfx">
+      <PackagePath>SP2013.Win8.WNS.Metro_TemporaryKey.pfx</PackagePath>
+      <Modified>2013-09-29T06:04:47.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Shailen\Code\SharePoint\App Demos\Demo-03\AppforWin8\SP2013.Win8.WNS.Metro\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-02-23T18:01:22.586</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

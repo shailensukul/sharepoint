@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="0bb82e91-8123-485f-b1e9-3eae2cec465c" solutionId="0bb82e91-8123-485f-b1e9-3eae2cec465c" resetWebServer="false" sharePointProductVersion="15.0" name="SendWin8AppNotification" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="d586e47c-fb23-479a-9658-93167963a564" />
+  </features>
+</package>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+  <Identity Name="62480SoKool.ToastAndTileSharePointNotification" Publisher="CN=3D49FA6E-54DD-45C6-8169-08DFABF95426" Version="1.1.0.0" />
+  <Properties>
+    <DisplayName>ToastAndTileSharePointNotification</DisplayName>
+    <PublisherDisplayName>SoKool</PublisherDisplayName>
+    <Logo>images\Tile_Default_50_50.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.0</OSMinVersion>
+    <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <m2:VisualElements DisplayName="ToastAndTileSharePointNotification" Description="SP2013.Win8.WNS.Metro" BackgroundColor="#09c7df" ForegroundText="light" ToastCapable="true" Square150x150Logo="images\Tile_Default_150_150.png" Square30x30Logo="images\badge-logo-30x30-SOW.png">
+        <m2:DefaultTile ShortName="NotificationSample" Wide310x150Logo="images\Tile_Default.png">
+          <m2:ShowNameOnTiles>
+            <m2:ShowOn Tile="square150x150Logo" />
+            <m2:ShowOn Tile="wide310x150Logo" />
+          </m2:ShowNameOnTiles>
+        </m2:DefaultTile>
+        <m2:InitialRotationPreference>
+          <m2:Rotation Preference="landscape" />
+        </m2:InitialRotationPreference>
+        <m2:SplashScreen BackgroundColor="#ffffff" Image="images\Tile_Default_620_300.png" />
+      </m2:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

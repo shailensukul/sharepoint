@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="0bb82e91-8123-485f-b1e9-3eae2cec465c" SharePointProductVersion="15.0">
+  <FeatureManifests>
+    <FeatureManifest Location="SendWin8AppNotification_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>
